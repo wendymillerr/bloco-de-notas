@@ -45,7 +45,7 @@ export function App() {
   ? notes.filter(note => note.content.toLocaleLowerCase().includes(search.toLocaleLowerCase())) : notes
 
   return (
-    <div className="mx-autp max-w-6xl my-12 space-y-6">
+    <div className="mx-auto max-w-6xl my-12 space-y-6">
       <img src={logo} alt="NLE expert" />
       <form className="w-full">
         <input
