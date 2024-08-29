@@ -10,8 +10,7 @@ npm run dev
 Acesse http://localhost:5173 para visualizar a aplicação.
 
 ## Descrição
-Este é o repositório do projeto Notas Voz a Texto desenvolvido durante a Next Level Week da Rocketseat. O objetivo deste projeto é criar um bloco de notas online que utiliza a tecnologia de reconhecimento de voz para converter áudio em texto.
-
+Este é o repositório do projeto Notas Voz a Texto desenvolvido durante a Next Level Week da Rocketseat. O objetivo deste projeto é criar um bloco de notas online.
 ## Tecnologias Utilizadas
 React + Vite: Utilizamos o React como biblioteca principal para a construção da interface do usuário e o Vite para garantir um desenvolvimento rápido e eficiente.
 
