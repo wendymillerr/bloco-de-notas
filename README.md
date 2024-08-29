@@ -17,4 +17,4 @@ React + Vite: Utilizamos o React como biblioteca principal para a construção d
 
 TailwindCSS: Optamos por utilizar o TailwindCSS para estilizar o projeto de forma rápida e consistente, aproveitando suas classes utilitárias.
 
-SpeechRecognitionAPI: A funcionalidade de reconhecimento de voz é implementada através da SpeechRecognitionAPI, que permite a captura de áudio do microfone e sua transcrição para texto.
+
